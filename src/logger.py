@@ -16,5 +16,5 @@ logging.basicConfig(
 
 )
 
-# if __name__ == "__main__":
-#     logging.info("Program started successfully.")
+if __name__ == "__main__":
+    logging.info("Program started successfully.")
